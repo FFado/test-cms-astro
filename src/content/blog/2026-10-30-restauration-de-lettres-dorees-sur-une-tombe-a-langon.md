@@ -6,7 +6,7 @@ title: Restauration de lettres dorées sur une tombe à Langon
 ogImage: Restauration de dorures à Langon
 slug: restauration-dorures-tombe-langon
 featured: false
-draft: true
+draft: false
 tags:
   - "\tRestauration"
   - Dorure
